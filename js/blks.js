@@ -1,10 +1,4 @@
-// TODO: math expressions in input fields
-// TODO: looping variables.
-// TODO: https://developer.mozilla.org/de/docs/Web/API/CanvasRenderingContext2D/arc
-// TODO: https://silentmatt.com/javascript-expression-evaluator/
-// TODO: https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Function
 // TODO: variables
-// TODO: if expressions
 
 const menu = document.getElementById('menu-contents');
 const code = document.getElementById('code-contents');
